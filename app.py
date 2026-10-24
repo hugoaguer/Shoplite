@@ -1,7 +1,11 @@
-"""ShopLite : application volontairement monolithique pour exercice de diagnostic.
+"""
+
+ShopLite : application volontairement monolithique pour exercice de diagnostic.
 
 Ce fichier mélange volontairement plusieurs responsabilités :
 interface utilisateur, validation, règles métier, persistance et affichage.
+
+
 """
 
 import sqlite3
